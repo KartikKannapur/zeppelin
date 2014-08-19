@@ -1,0 +1,77 @@
+- 
+  id: 6
+  name: "Explore new Possibilities - Google Post I/O"
+  title: "August 2, 2014"
+  
+  bio: "We are conducting this meetup as a follow up for the Google I/O. Since Google is exploring the field of Andoird, we wanted to get in touch with developers and wanted to explore the eco-system what Google has provided."
+  thumbnailUrl: ExploreNewPossibilities.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "I/O", title: "Google I/O", url: "https://www.google.com/events/io"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/events/c170f05s79vbvm8dsjn2s96t0jc"}
+- 
+  id: 5
+  name: "Google I/O Extended 2014"
+  title: "June 25, 2014"
+  
+  bio: "Google I/O Extended is live streaming of Google I/O Developer Conference. Many opportunities to explore what Google is going to announce new in Technology."
+  thumbnailUrl: GoogleIOExtended14.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "I/O", title: "Google I/O", url: "https://www.google.com/events/io"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/events/c170f05s79vbvm8dsjn2s96t0jc"}
+- 
+  id: 4
+  name: "Google Cloud Workshop"
+  title: "June 7, 2014"
+  
+  bio: "Google Cloud Workshop is an event as a follow up session of Google Cloud India Roadshow. Participants will be given hands-on session on how to use different services of Google w.r.t. Google Cloud Platform."
+  
+  thumbnailUrl: GoogleCloudWorkshop7thJune.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "Cloud", title: "Google Cloud", url: "https://cloud.google.com/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/events/cha8rka74nk63v46a8l2qj500l4"}
+- 
+  id: 3
+  name: "Google Cloud Platform Developer Roadshow"
+  title: "May 10, 2014"
+  
+  bio: "Google’s Cloud Platform Developer Roadshow is happening in India. After successful events at Hyderabad and Chennai the Google India Roadshow is coming to Bangalore at The Leela Palace on 10th May 2014. Specifically, the full day event will feature sessions on new technology in the cloud platform, Google App Engine, Google Compute Engine, how Google cloud products can be used by startups and much more. There will also be a demo session for a live experience. The event will also be a good opportunity to engage with Google Cloud Developer Experts."
+  
+  thumbnailUrl: GoogleCloudRoadshow.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "Cloud","Roadshow", title: "Google Cloud", url: "http://www.googlecloudroadshow.com/cloud-platform-roadshow.html"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/b/104550553343399000979/events/chcq13c5n5g11rsgjlpvpk6rjc8"}
+- 
+  id: 2
+  name: "HTML5 and Web Development "
+  title: "April 5, 2014"
+  
+  bio: "HTML5 and Web Development Workshop is a hands on for a wide range of students. Focus is to touch upon basics of HTML5 and to give the students a kick start in web development."
+  
+  thumbnailUrl: HTML5April.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "HTML","Web", title: "Web Development", url: "https://cloud.google.com/"}
+  social: 
+    - {name: "google-plus", link: "http://plus.google.com/events/coivdik8hkiub469abcah9644m0"}
+- 
+  id: 1
+  name: "Google Women Tech Makers"
+  title: "March 22, 2014"
+  
+  bio: "HTML5 and Web Development Workshop is a hands on for a wide range of students. Focus is to touch upon basics of HTML5 and to give the students a kick start in web development."
+  
+  thumbnailUrl: WomenTechmaker22.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "Tech", title: "Women Techmaker", url: "https://cloud.google.com/"}
+  social: 
+    - {name: "google-plus", link: "http://plus.google.com/events/ca4heu9f31op9fe9p06srskv1qc"}
+

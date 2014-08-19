@@ -1,5 +1,5 @@
 <!-- Begin Post-->
-<section id="post-section" class="post-section">
+<section id="post-section">
     <div class="content-wrapper text-left">
         <div class="col-md-10 col-sm-10 col-lg-offset-2 col-md-offset-2 col-sm-offset-1">
             <div class="col-lg-8 col-md-10 col-xs-12">
@@ -7,6 +7,9 @@
                 <article class="row post">
 
                     {% if include.isStaticPost == false %}
+                    
+                    	{% assign postUrl = site.url | append: site.baseurl | append: page.url %} 
+                    
                     <div class="post-header">
                         <div class="published pull-left">
                             <span class="caption">Posted:</span>
@@ -64,10 +67,10 @@
                 </article>
 
                 {% if include.isStaticPost == false %}
-                    <div class="row text-center">
+                    <!--<div class="row text-center">
                         <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">via RSS</a>
                         </p>
-                    </div>
+                    </div>-->
                 {% endif %}
 
             </div>

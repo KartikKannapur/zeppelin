@@ -1,123 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GDG DevFest Season 2014</title>
-    <description>GDG DevFest is a set of events all around the world</description>
-    <link>http://gdg-ukraine.github.io/zeppelin/</link>
-    <atom:link href="http://gdg-ukraine.github.io/zeppelin/feed.xml" rel="self" type="application/rss+xml" />
+    <title>GDG Bangalore</title>
+    <description>Google Developer Group Bangalore</description>
+    <link>http://gdgbangalore.github.io//</link>
+    <atom:link href="http://gdgbangalore.github.io//feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Call for Papers</title>
-        <description>&lt;p&gt;GDG DevFest Ukraine 2014 will be held 24-25th of October in ancient city of Lviv. If you want to be part of this great event as a speaker you knocked at the good door.&lt;/p&gt;
+        <title>Explore new Possibilities with GDG Bangalore: Post Google I/O Session</title>
+        <description>&lt;p&gt;We conducted this meetup as a follow up of the Google I/O event. We focused on exploring the concepts of Ubiquitous programming and a discussion of web frameworks with Meteor as an example. The idea was to get in touch with developers and explore the eco-system that Google provides. The event was organized on 2nd August, 2014 at the Intel Campus, Bangalore.&lt;/p&gt;
 
-&lt;h4 id=&quot;presenters--who-should-speak-at-the-devfest-conference&quot;&gt;Presenters – who should speak at the DevFest Conference?&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://plus.google.com/106713173238624167691&quot;&gt;Shreyas Kulkarni&lt;/a&gt; - &lt;a href=&quot;http://www.slideshare.net/shreys91/ubiquitous-programming&quot;&gt;Ubiquitous Programming&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;developers (freelance and hired)&lt;/li&gt;
-  &lt;li&gt;companies developing software (apps, tools, frameworks etc.)&lt;/li&gt;
-  &lt;li&gt;research institutions with Google relevant activities&lt;/li&gt;
-  &lt;li&gt;companies, organisations and individuals using Google technologies&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;1. How was your experience as a speaker at the meetup?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;If you belong to one of those groups you are cordially invited to submit a talk proposal (or a number of proposals). An independent program committee assesses the proposals and selects the actual conference talks.&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;The experience was amazing. It was the first time I was speaking at an event related to Google. The event was very well organized, very well coordinated and was almost glitch free. It was a pleasure to be present at an event like this. &lt;/p&gt;
 
-&lt;h4 id=&quot;themes-and-topics--what-do-we-expect&quot;&gt;Themes and topics – what do we expect?&lt;/h4&gt;
-&lt;p&gt;Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. How much exposure do you think people have towards the concept of Ubiquitous programming and why?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h5 id=&quot;android&quot;&gt;Android&lt;/h5&gt;
+&lt;p&gt;Ubiquitous Programming (quite an ambiguous name), is in very nascent stages. There is NO documentation yet, there are no fixed rules defined. We just see some small implementations of it in few places. Most of these implementations are cloud centric and don’t tap in the potential and the power of devices local to us. This talk dealt with tapping of such resources and possible changes that can be made into our architectures, so that we exploit the power around us, rather than blindly depending on cloud all the time. Since this was a very nascent topic, a lot of audience seemed to have very less exposure. Also exposure to concepts like Service Oriented Architecture and Functional Programming was limited and hence I had to extemporaneously change the complexity of the presentation and touch upon basics .&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Google I/O 2014&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. What did you like the most during the event ?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Material Design&lt;/li&gt;
-  &lt;li&gt;Migration to ART&lt;/li&gt;
-  &lt;li&gt;New Android Camera API&lt;/li&gt;
-  &lt;li&gt;New Job Scheduler&lt;/li&gt;
-  &lt;li&gt;Storage Access Framework&lt;/li&gt;
-  &lt;li&gt;Elevation &amp;amp; Clipping&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Free Pizza :P .On a serious note, there wasn’t anything much to complain about the event. I would have been happier if the audience consisted of more developers, more folks from the industry - it would have been more apt for an event of such kind. &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;General&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.slideshare.net/shreys91/ubiquitous-programming&quot;&gt;Link&lt;/a&gt; to the presentation.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Android Continuous Integration&lt;/li&gt;
-  &lt;li&gt;Loaders, Cursor Adapters&lt;/li&gt;
-  &lt;li&gt;Android Animations&lt;/li&gt;
-  &lt;li&gt;Patterns in Android development&lt;/li&gt;
-&lt;/ul&gt;
+&lt;hr /&gt;
 
-&lt;h5 id=&quot;web&quot;&gt;Web&lt;/h5&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://plus.google.com/105273984087201613503&quot;&gt;Priya Arora&lt;/a&gt; - &lt;a href=&quot;https://www.meteor.com/&quot;&gt;Meteor Framework&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;AngularJS (1x and 2.0)&lt;/li&gt;
-  &lt;li&gt;Dart (AngularDart, server-side)&lt;/li&gt;
-  &lt;li&gt;Polymer and WebComponents&lt;/li&gt;
-  &lt;li&gt;Material Design in Web&lt;/li&gt;
-  &lt;li&gt;ChromeOS (apps development)&lt;/li&gt;
-  &lt;li&gt;Web Performance (tools, techniques, approaches)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;1. How was your experience as a speaker at the meetup?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h5 id=&quot;cloud&quot;&gt;Cloud&lt;/h5&gt;
+&lt;p&gt;It was a very nice experience, being my first talk. Got to gain new experiences and how this can be proceeded further.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Google Cloud Platform
-    &lt;ul&gt;
-      &lt;li&gt;Compute Engine&lt;/li&gt;
-      &lt;li&gt;App Engine&lt;/li&gt;
-      &lt;li&gt;Storages (SQL, NoSQL, BigData)&lt;/li&gt;
-      &lt;li&gt;APIs&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Go (as a language for a Cloud Ready Apps)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2. How has been your experience with Meteor as compared to other frameworks ?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;please-submit-your-proposals-herehttpbitlydfua-c4p&quot;&gt;Please submit your proposals &lt;a href=&quot;http://bit.ly/dfua-c4p&quot;&gt;here&lt;/a&gt;.&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;Deadline&lt;/strong&gt; is September 1, 2014&lt;/p&gt;
+&lt;p&gt;Meteor framework is very easy to use. In comparison to other frameworks, web applications can easily be built using this framework. One just needs to understand the flow and everything else will be done by the framework.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Please note:&lt;/strong&gt; There is no guarantee that a submission will be put onto the conference agenda!&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. What did you like the most during the event?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2014.&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;There is nothing that I can complain about. But, more number of experienced developers should be there. The event was pretty organised.&lt;/p&gt;
 
-&lt;h4 id=&quot;any-questions&quot;&gt;Any questions?&lt;/h4&gt;
-&lt;p&gt;Email organizers at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#100;&amp;#101;&amp;#118;&amp;#102;&amp;#101;&amp;#115;&amp;#116;&amp;#064;&amp;#103;&amp;#100;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&amp;#046;&amp;#117;&amp;#097;&quot;&gt;&amp;#100;&amp;#101;&amp;#118;&amp;#102;&amp;#101;&amp;#115;&amp;#116;&amp;#064;&amp;#103;&amp;#100;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&amp;#046;&amp;#117;&amp;#097;&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;In case you missed the event, you can watch the video here&lt;/p&gt;
+
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;//www.youtube.com/embed/CsyhU3p-3Fs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
 </description>
-        <pubDate>Mon, 21 Jul 2014 12:00:00 +0300</pubDate>
-        <link>http://gdg-ukraine.github.io/zeppelin/blog/call-for-papers</link>
-        <guid isPermaLink="true">http://gdg-ukraine.github.io/zeppelin/blog/call-for-papers</guid>
+        <pubDate>Sat, 02 Aug 2014 15:30:00 +0530</pubDate>
+        <link>http://gdgbangalore.github.io//blog/Explore-New-Possibilities</link>
+        <guid isPermaLink="true">http://gdgbangalore.github.io//blog/Explore-New-Possibilities</guid>
       </item>
     
       <item>
-        <title>Hello World!</title>
-        <description>&lt;p&gt;We’re very excited - not just because of the inordinate amount of caffeine based products consumed - 
-but also because our team are putting together 
-the final missing parts to the biggest Google related event in Ukraine - &lt;a href=&quot;http://devfest.gdg.org.ua/&quot;&gt;GDG DevFest 2014&lt;/a&gt;. &lt;/p&gt;
+        <title>Google Cloud Workshop</title>
+        <description>&lt;p&gt;We organized a workshop on &lt;a href=&quot;https://cloud.google.com/&quot;&gt;Google Cloud&lt;/a&gt; inviting developers to give them a hands on experience with the Google Cloud Technology on the 7th of June 2014 at Hotel Royal Orchid, Bangalore.&lt;/p&gt;
 
-&lt;p&gt;This year event will take place in cultural capital of Ukraine - Lviv. Being a unique European city in Ukraine, Lviv is among top 10 cities of the world to visit in 2014 according to the travel group “The Rough Guide” and is among top 10 cities for spending weekends in Europe according to Lonely Planet. So take your time to spend weeked in last hidden gem in the Europe in company of experts and technical geeks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://plus.google.com/u/0/+ShivamAgarwal404&quot;&gt;Shivam Agarwal&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;So should you also be excited? Well yes… and here’s why!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. How was your experience as a Speaker at Google Cloud Workshop?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Attendance&lt;/strong&gt;: we’re expecting over 350 attendees&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Topic&lt;/strong&gt;: more than 48 hours of pure Google technologies &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Date&lt;/strong&gt;: 24-25 of October, expect hackathon and workshops on a first day and conference on the second&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Venue&lt;/strong&gt;: Kinopalace Cinema - for a first time we’ll make technical event in real cinema directly in the heart of the ancient city of Lviv&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Speakers&lt;/strong&gt;: we’re in the process of finalising the list of speakers&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;This was my first experience as a speaker in a GDG event and I can simply describe it in one word - AWESOME!!&lt;/p&gt;
 
-&lt;p&gt;but we’ve already secured a first batch of experts:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. How was the response from the attendees?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Dawid Ostrowski&lt;/strong&gt; - Developer Relation from Google, who excited about cloud technologies&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Mateusz Herych&lt;/strong&gt; - Android GDE and GDG organizer from Krakow&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Dmytro Danylyk&lt;/strong&gt; - developer, blogger, speaker, author of open source 1000+ star libraries &lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Roman Mazur&lt;/strong&gt; - speaker on various international conferences like Droidcon Eastern Europe and Ankara Developer Days&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Attendees were a mixed crowd. One of the problems I faced during the event was that many of the attendees were not prepared i.e. they didn’t have their machines preconfigured according to the instructions which were given earlier. This consumed some time during which more hands on experience was planned. One thing I liked about the attendees was that they were very inquisitive. Their questions covered material which I was going to talk about 4-5 slides ahead. This also created an atmosphere of curiosity to learn and think out of the box. Attendees were from different careers and companies and they shared their experiences while asking questions, which helped in uncovering diverse application areas.&lt;/p&gt;
 
-&lt;p&gt;More details about speakers, DevFest Hackathon and Lviv will appear in subsequent posts, meantime like us on &lt;a href=&quot;https://facebook.com/GDGLviv&quot;&gt;Facebook&lt;/a&gt;, follow on &lt;a href=&quot;https://twitter.com/intent/user?screen_name=GDGLviv&quot;&gt;Twitter&lt;/a&gt;, add to circles in &lt;a href=&quot;https://plus.google.com/b/102444623953913144164&quot;&gt;Google+&lt;/a&gt; or subcribe to our &lt;a href=&quot;http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;amp;id=ae0fb459fc&quot;&gt;mailing list&lt;/a&gt; and &lt;a href=&quot;http://devfest.gdg.org.ua/feed.xml&quot;&gt;RSS feed&lt;/a&gt; in order not to miss any cool stuff about festival.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. What did you like the most during the event?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The thing I liked the most was the amount of energy, dedication and team work of GDG and GSA members to host the event successfully. I am very thankful to GDG Bangalore and Google to give me the opportunity of being a speaker. Thank you guys! GDG Bangalore rocks!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://plus.google.com/u/0/103302681672889679709&quot;&gt;Satendra Singh&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. How was your experience as a Speaker at Google Cloud Workshop?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It was a great experience all together as I got the opportunity to share my knowledge and experience being a part of the developer community of Google App Engine.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. How was the response from the attendees?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The attendees asked quite a lot of technical questions and a variety of questions that made the session more interesting and an extensive exchange of knowledge about various challenges they were facing while implementing their solution on cloud and how Google App Engine could solve their concern.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. What did you like the most during the event?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The moment I liked the most, was when attendees came forward and discussed their business problems to find the solution through Google App Engine cloud platform and their willingness to know as much as possible.&lt;/p&gt;
+
 </description>
-        <pubDate>Mon, 21 Jul 2014 11:00:00 +0300</pubDate>
-        <link>http://gdg-ukraine.github.io/zeppelin/blog/hello-world</link>
-        <guid isPermaLink="true">http://gdg-ukraine.github.io/zeppelin/blog/hello-world</guid>
+        <pubDate>Sat, 07 Jun 2014 15:30:00 +0530</pubDate>
+        <link>http://gdgbangalore.github.io//blog/Google-Cloud-Workshop</link>
+        <guid isPermaLink="true">http://gdgbangalore.github.io//blog/Google-Cloud-Workshop</guid>
       </item>
     
   </channel>

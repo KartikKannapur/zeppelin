@@ -1,25 +1,28 @@
 <!-- Begin Sponsors Section -->
-<section id="sponsors" class="sponsors">
+<section id="sponsors">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <h3>Partners</h3>
-            {% for partner in site.data.partners %}
-            <h5>{{ partner.group }}</h5>
             <ul class="list-inline">
-                {% for element in partner.elements %}
                 <li>
-                    <a href="{{ element.link }}" target="_blank">
-                        <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" alt="{{ element.description }}">
+                    <a href="#" target="_blank">
+                        <img src="{{ site.baseurl }}/img/sponsors/google.svg" alt="sponsor-1">
                     </a>
                 </li>
-                {% endfor %}
+                <li>
+                    <a href="#" target="_blank">
+                        <img src="{{ site.baseurl }}/img/sponsors/gdg-x.svg" alt="sponsor-2">
+                    </a>
+                </li>
+                <li>
+                    <a href="#" target="_blank">
+                        <img src="{{ site.baseurl }}/img/sponsors/intel.png" alt="sponsor-3">
+                    </a>
+                </li>
             </ul>
-            {% endfor %}
-            <a href="{{ site.baseurl | append: site.c4sponsorsUrl }}">
-                <span class="btn btn-primary waves-element waves-button waves-light waves-will-raise">
-                     Become a sponsor
-                </span>
-            </a>
+            <span class="btn btn-primary waves-element waves-button waves-light waves-will-raise">
+			     <a href="mailto:{{ site.email }}">Be a Partner&nbsp;-&nbsp;Join Us&nbsp;!</a>
+            </span>
         </div>
     </div>
 </section>
